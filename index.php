@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="box">
+      <div class="group">
+        <div class="overlap-group">
+          <div class="div">
+            <div class="rectangle"></div>
+            <div class="text-wrapper-2"><center>Адвокатское дело</center></div>
+            <div class="text-wrapper-4">Подробнее</div>
+          </div>
+          <a href="help.php  " target="_blank" rel="noopener noreferrer"> <div class="text-wrapper-3"><div class="txt">Оставить заявку</div></div></a>
+          <div class="overlap-2">
+            <p class="span-wrapper">
+              <span class="span"
+                >Адвокатской деятельностью является квалифицированная юридическая помощь, оказываемая на
+                профессиональной основе лицами, получившими статус адвоката в порядке, установленном настоящим
+                Федеральным законом, физическим и юридическим лицам в целях защиты их прав, свобод
+                и интересов, а также обеспечения доступа к правосудию.</span>
+            </p>
+            <img class="image" src="img/img4.jpeg" />
+          </div>
+          <p class="p">
+            <span class="span"
+              >Не откладывайте решение своих юридических вопросов на потом. Обратитесь в нашу Адвокатскую контору уже сегодня и получите квалифицированную помощь от наших специалистов.
+</span>
+          </p>
+          <p class="span-wrapper-2">
+            <span class="span"
+              >Мы — команда опытных и преданных адвокатов, готовых оказать вам качественные юридические услуги в различных областях права.
+              <br><br>
+            1. Профессионализм и опыт наших адвокатов.<br>
+            2. Индивидуальный подход к каждому клиенту.<br>
+            3. Конфиденциальность и надежность.</span>
+          </p>
+          <img class="image-2" src="img/img5.jpeg" />
+          <p class="text-wrapper-5">Поняли что нужна наша помощь?</p>
+          <a href="help.php" target="_blank" rel="noopener noreferrer">  <div class="text-wrapper-33"><div class="txt">Оставить заявку</div></div></a>
+        </div>
+          <div class="bottom">Телефон: +7 (999) 99-99-00
+                            <br><br>
+            Email: info@juridicheskayazashchita.ru
+                            <br><br>
+              Адрес: улица Ленина, дом 10, квартира 5, город Москва.</div>
+      </div>
+    </div>
+  </body>
+</html>
